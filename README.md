@@ -1,4 +1,4 @@
-# WEREABLE_vs_BLOOD_TEST_Mortality_prediction
+# WEARABLE_vs_BLOOD_TEST_Mortality_prediction
 
 ## Can a wrist‑worn accelerometer replace a blood test for predicting 10‑year mortality?
 
